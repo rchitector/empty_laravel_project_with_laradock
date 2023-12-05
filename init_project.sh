@@ -97,4 +97,4 @@ echo "cd .." >> "$ROOT_PATH/commands.txt"
 echo "sudo chown $USER:$USER ./$SOURCE_CODE_FOLDER_NAME -R && sudo chmod g+rwx ./$SOURCE_CODE_FOLDER_NAME -R" >> "$ROOT_PATH/commands.txt"
 
 echo "Please run all commands from file commands.txt to finish installing laravel project."
-exho "And then you can open site: https://localhost"
+echo "And then you can open site: https://localhost"
