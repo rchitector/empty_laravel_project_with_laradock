@@ -1,3 +1,3 @@
-# empty_laravel_project_with_laradock
-# empty_laravel_project_with_laradock
-# empty_laravel_project_with_laradock
+## How to.
+- run ``sudo ./init+project.sh`` to create empty project.
+- run ``sudo ./clear_project.sh`` to remove all project's folders
